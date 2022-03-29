@@ -1,11 +1,3 @@
-<!--=====================================
-=            INFORMACIÓN            =
-======================================-->
-<!--
-	AUTOR: ING. OSCAR BONILLA RODRIGUEZ
-	FECHA: 2017-07
--->
-<!--====  End of INFORMACIÓN  ====-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
